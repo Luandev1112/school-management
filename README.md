@@ -1,6 +1,6 @@
 # School Management System
 
-This system is the open-source application which was developed by using [Ruby On Rails](http://rubyonrails.org) Framework. It can apply to anykind of school(Kindergarten - High school). There is enterprise version for your school if you want further customization by contacting me via email: vandysodanheang@gmail.com
+This system is the open-source application which was developed by using [Ruby On Rails](http://rubyonrails.org) Framework. It can apply to anykind of school(Kindergarten - High school). There is enterprise version for your school if you want further customization by contacting me via email: joaosouto985@gmail.com
 
 ## Getting Started
 
@@ -59,12 +59,6 @@ rails s
 ## Versioning
 
 The School Management System's version is ***1.0.9***
-
-## Authors
-
-* **Vandy Sodanheang** - *Initial work* - [Web and Mobile Developer](https://www.linkedin.com/in/vandy-sodanheang-368410113/)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
